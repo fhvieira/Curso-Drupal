@@ -20,10 +20,13 @@
  *   'localhost.example' => 'example.com',
  * );
  *
+<<<<<<< HEAD
 $sites = array(
 	'ambrosio.infogeral.com.br' => 'ambrosio',
 );
 
+=======
+>>>>>>> 11be9c6d176a738a963e5161f7fb16b6f4f6e53e
  * The above array will cause Drupal to look for a directory named
  * "example.com" in the sites directory whenever a request comes from
  * "example.com", "devexample.com", or "localhost/example". That is useful
@@ -45,3 +48,10 @@ $sites = array(
  */
 # $sites['devexample.com'] = 'example.com';
 # $sites['localhost.example'] = 'example.com';
+<<<<<<< HEAD
+=======
+$sites = array(
+	'murillob.infogeral.com.br' => 'altherlex',
+	'ambrosio.infogeral.com.br' => 'ambrosio',
+);
+>>>>>>> 11be9c6d176a738a963e5161f7fb16b6f4f6e53e
