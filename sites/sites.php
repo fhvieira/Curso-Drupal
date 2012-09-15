@@ -43,15 +43,9 @@
 # $sites['localhost.example'] = 'example.com';
 
 $sites = array(
-<<<<<<< HEAD
-  'fhvieira.infogeral.com.br' => 'fhvieira'
-  'renato.infogeral.com.br` => 'renato',
+  'fhvieira.infogeral.com.br' => 'fhvieira',
+  'renato.infogeral.com.br' => 'renato',
   'luiz.infogeral.com.br' => 'luiz',
   'murillob.infogeral.com.br' => 'altherlex',
-=======
-	'bruno.infogeral.com.br' => 'bruno'
-	'luiz.infogeral.com.br' => 'luiz',
-  	'murillob.infogeral.com.br' => 'altherlex',
-	'renato.infogeral.com.br' =>  'renato'
->>>>>>> 79625da904f97562c03d371ec762e1ff167de188
+  'bruno.infogeral.com.br' => 'bruno',
 );
