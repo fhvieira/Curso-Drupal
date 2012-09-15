@@ -41,6 +41,10 @@
  */
 # $sites['devexample.com'] = 'example.com';
 # $sites['localhost.example'] = 'example.com';
-$sites = attay(
-'fhvieira.infogeral.com.br' => 'fhvieira'
-)
+
+$sites = array(
+  'fhvieira.infogeral.com.br' => 'fhvieira'
+  'renato.infogeral.com.br` => 'renato',
+  'luiz.infogeral.com.br' => 'luiz',
+  'murillob.infogeral.com.br' => 'altherlex',
+);
