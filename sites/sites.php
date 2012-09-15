@@ -42,10 +42,10 @@
 # $sites['devexample.com'] = 'example.com';
 # $sites['localhost.example'] = 'example.com';
 $sites = array(
-	'fhvieira.infogeral.com.br' => 'fhvieira'
-	'bruno.infogeral.com.br' => 'bruno'
+	'fhvieira.infogeral.com.br' => 'fhvieira',
+	'bruno.infogeral.com.br' => 'bruno',
 	'luiz.infogeral.com.br' => 'luiz',
   	'murillob.infogeral.com.br' => 'altherlex',
 	'renato.infogeral.com.br' =>  'renato',
-	'ambrosio.infogeral.com.br' => 'ambrosio',
+	'ambrosio.infogeral.com.br' => 'ambrosio'
 );
