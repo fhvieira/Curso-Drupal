@@ -45,5 +45,5 @@ $sites = array(
 	'bruno.infogeral.com.br' => 'bruno'
 	'luiz.infogeral.com.br' => 'luiz',
   	'murillob.infogeral.com.br' => 'altherlex',
-	'renato.infogeral.com.br' =>  'renato',
+	'renato.infogeral.com.br' =>  'renato'
 );
