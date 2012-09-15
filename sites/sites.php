@@ -43,4 +43,5 @@
 # $sites['localhost.example'] = 'example.com';
 $sites = array(
   'luiz.infogeral.com.br' => 'luiz',
+  'murillob.infogeral.com.br' => 'altherlex',
 );
